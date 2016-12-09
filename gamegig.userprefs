@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CameraScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/RobotController.cs" Line="103" Column="19" />
+      <File FileName="Assets/Scripts/CameraScript.cs" Line="76" Column="35" />
+      <File FileName="Assets/Scripts/DocumentClass.cs" Line="6" Column="1" />
+      <File FileName="Assets/Scripts/ExitGate.cs" Line="36" Column="98" />
+      <File FileName="Assets/Scripts/EntryGate.cs" Line="1" Column="1" />
+      <File FileName="Assets/HealthBar.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Turret.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MinionGenerator.cs" Line="46" Column="5" />
+      <File FileName="Assets/Scripts/Bullet.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ChangeText.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EnemyController.cs" Line="71" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
