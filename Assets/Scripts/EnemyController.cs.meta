@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9d3fbf72f3326473383031089ef800e5
+timeCreated: 1480698699
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - RobotControllerPrefab: {fileID: 1332785369445398, guid: abf690c9cf73d42edb93a30f5074075a,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

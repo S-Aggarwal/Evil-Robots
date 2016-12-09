@@ -1,0 +1,24 @@
+using UnityEngine;
+
+public class EntryGate : MonoBehaviour
+{
+	public GameObject heroPrefab;
+	public int levelNum = 1;
+
+	public static double ScreenTimeConst = 2.0;
+
+	public void Start()
+	{
+		GameObject hero = (GameObject) Instantiate(heroPrefab, transform.position, transform.rotation);
+
+		GetComponentInParent<DocumentClass> ().GetComponentInChildren<ChangeText>().chgtxt("Welcome to level " + levelNum);
+	}
+
+	public double screenTime = 0;
+
+	public void Update() {
+		screenTime += Time.deltaTime;
+		if(screenTime >= ScreenTimeConst) 
+			GetComponentInParent<DocumentClass> ().GetComponentInChildren<ChangeText>().chgtxt("");
+	}
+}
